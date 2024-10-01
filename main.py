@@ -9,7 +9,7 @@ def show_banner():
     banner = f"""
     {RED}==================================
           IP Checker CLI Tool
-           by Your Name Here
+           by Justin-Praveen
     ==================================
       Find out if an IP is public or private!
       Also identifies the IP class (A, B, C, D, E).
